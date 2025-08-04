@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\Projettos\\CadastroClientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2EAE69-3CCA-40E6-A691-272352FF254A}|CadastroClientes.csproj|c:\\users\\usuario\\downloads\\projettos\\cadastroclientes\\repository\\clientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2EAE69-3CCA-40E6-A691-272352FF254A}|CadastroClientes.csproj|solutionrelative:repository\\clientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2EAE69-3CCA-40E6-A691-272352FF254A}|CadastroClientes.csproj|c:\\users\\usuario\\downloads\\projettos\\cadastroclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2EAE69-3CCA-40E6-A691-272352FF254A}|CadastroClientes.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Downloads\\corrected_code\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2EAE69-3CCA-40E6-A691-272352FF254A}|CadastroClientes.csproj|c:\\users\\usuario\\downloads\\projettos\\cadastroclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2EAE69-3CCA-40E6-A691-272352FF254A}|CadastroClientes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2EAE69-3CCA-40E6-A691-272352FF254A}|CadastroClientes.csproj|c:\\users\\usuario\\downloads\\projettos\\cadastroclientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F2EAE69-3CCA-40E6-A691-272352FF254A}|CadastroClientes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2EAE69-3CCA-40E6-A691-272352FF254A}|CadastroClientes.csproj|c:\\users\\usuario\\downloads\\projettos\\cadastroclientes\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2EAE69-3CCA-40E6-A691-272352FF254A}|CadastroClientes.csproj|solutionrelative:models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Projettos\\CadastroClientes\\Repository\\ClientesRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ClientesRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Projettos\\CadastroClientes\\Repository\\ClientesRepository.cs*",
+              "RelativeToolTip": "Repository\\ClientesRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:59:57.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Projettos\\CadastroClientes\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Projettos\\CadastroClientes\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:32:07.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Projettos\\CadastroClientes\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Projettos\\CadastroClientes\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T22:24:16.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Projettos\\CadastroClientes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Projettos\\CadastroClientes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T23:18:09.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\corrected_code\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\corrected_code\\index.html",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\corrected_code\\index.html",
+              "RelativeToolTip": "..\\..\\corrected_code\\index.html",
+              "ViewState": "AgIAANQAAAAAAAAAAAAAADIBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-26T05:58:07.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Projettos\\CadastroClientes\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "Models\\Clientes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Projettos\\CadastroClientes\\Models\\Clientes.cs",
+              "RelativeToolTip": "Models\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:07:27.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
